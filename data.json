@@ -1,0 +1,11 @@
+{
+    "management_chain": {
+        "bob": [
+            "ken",
+            "janet"
+        ],
+        "alice": [
+            "janet"
+        ]
+    }
+}
